@@ -24,7 +24,7 @@ Explanation -
 After performing the Genes word  abcdef bcdefa cdefab defabc efabcd fabcde 
 which doesnt match with the Minne word so the output is false 
 
-
+#test
 */
 #include <bits/stdc++.h>
 using namespace std;
